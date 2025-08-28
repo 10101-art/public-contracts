@@ -1,6 +1,6 @@
 # 10101.art Smart Contracts
 
-A blockchain platform for fractional ownership of valuable physical artworks, making art investment transparent, secure, and accessible to a wider audience on BNB Smart Chain (BSC), Ethereum and other EVM-compatible networks.
+A blockchain platform for fractional ownership of valuable physical artworks, making art investment transparent, secure, and accessible to a wider audience on BNB Smart Chain (BSC) and other EVM-compatible networks.
 
 ## Technology Stack
 
