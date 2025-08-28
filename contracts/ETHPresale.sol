@@ -4,6 +4,10 @@ pragma solidity ^0.8.0;
 import "./Presale.sol";
 import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
 
+
+/**
+ * Presale contract for native BNB/ETH or other token
+ */
 contract ETHPresale is OwnableExt, Pausable{
     uint256 public tokenPrice;
     uint public maxTokensAvailable;
