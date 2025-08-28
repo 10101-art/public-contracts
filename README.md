@@ -18,8 +18,8 @@ A blockchain platform for fractional ownership of valuable physical artworks, ma
 
 ## Contract Addresses
 
-| Network  | Core Contract                              | Token Contract |
-|----------|--------------------------------------------|----------------|
+| Network  | Core Contract                              | Collection Contract                        |
+|----------|--------------------------------------------|--------------------------------------------|
 | BNB Mainnet | -                                          | 0x3626b74E1d3D5EB0c362c77B915a8718bD1D05E3 |
 | BNB Testnet | -                                          | 0x131e44193f59feeE1635e3624CCeBe939B5521E2 |
 | Ethereum    | 0xc7CcB2FF8b44aa249F5c8459372f8CFd77384108 | 0xd003945c9003b96Ea8d50862EA4bB7ec70051c31 |
