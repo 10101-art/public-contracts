@@ -31,3 +31,10 @@ A blockchain platform for fractional ownership of valuable physical artworks, ma
 - Most of the errors based on codes instead of strings to save gas and contract size
 - Mint can be paused and unpaused by the owner or admin
 - Additional features for RWA assets (e.g., physical artwork) management
+
+## Licensing
+- This project is licensed under the MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code, provided that the original copyright notice and permission notice are included in all copies or substantial portions of the code.
+- This project uses OpenZeppelin Contracts which are licensed under the MIT License and remain subject to their respective terms.
+
+This code is provided "as is", without warranty of any kind — express or implied — including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. Use at your own risk. We take no responsibility for any damages, loss of funds, bugs, exploits, or misuse that may result from the use, deployment, or interaction with these smart contracts.
+These smart contracts have not undergone a formal third-party security audit. They are published for transparency, educational purposes, and community review. Before using in production or deploying on mainnet, we highly recommend conducting your own thorough audit and legal due diligence.
